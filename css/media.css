@@ -1,0 +1,160 @@
+@media (min-width:1440px) {
+/*
+    .container {
+        width: 1400px;
+    }
+*/
+}
+@media (min-width: 1200px) {
+    /*.container {
+        width: 1210px;
+    }*/
+    
+    
+    .push-xl-6 {
+    left: 50%!important;
+    }
+}
+@media (min-width:992px){
+    .push-lg-4{
+            left: 33.333333%!important;
+    }
+    
+    .push-xl-6{
+        left: 0;
+    }
+}
+@media (min-height:1080px) {}
+
+@media (max-width:1280px) {}
+
+@media (max-width:992px) {
+    .landblock1 {
+        background-position: right center;
+    }
+    .push-lg-4{
+            left: 0%!important;
+    }
+    .landblock2,
+    .landblock3,
+    .landblock4,
+    .landblock5,
+    .landblock6,
+    .landblock8 {
+        padding: 40px 0;
+    }
+    
+    .mt-lg-10 {
+       margin-top:10px; 
+    }
+    .online-container {
+        padding: 40px 0;
+    }
+    
+    
+}
+
+@media (max-width:768px) {
+    .program__item {
+        min-height: auto;
+        margin-bottom: 15px;
+    }
+    .video iframe{
+        
+            width: 380px!important;
+        
+    }
+      .btn-part {
+    width: 244px;
+    margin-top:0px;
+}
+    .seminar {
+        margin-left: 25px;
+    }
+    .online-top {
+        padding-left:25px;
+    }
+    .reg-form {
+        margin-top: 25px!important;
+    }
+    .program__item{
+        min-height: 30px;
+    }
+}
+
+@media (max-width:576px) {
+    .s-header {
+        font-size: 8vw;
+    }
+    
+    .contest-text_border-right {
+        padding-right: 0;
+        border-right: 0;
+    }
+    .contest-text_margin-left {
+        margin-left: 0;
+    }
+    
+    .invite .quote {
+        margin-left: 0;
+        margin-top: 64px;
+    }
+    
+    
+    
+    .about ul {
+        padding-left: 25px;
+        margin-top: 25px;
+    }
+    
+    
+    
+    .program__item .number {
+        padding-left: 25px;
+    }
+    .program__item ul {
+        padding-left: 25px;
+    }
+    
+    .btn-part {
+        width: 100%;
+    }
+    
+    .online-list .schedule div {
+        width: 25%;
+    }
+    .online-bottom h3 {
+        margin-left: 0;
+    }
+    .landblock8 .speaker {
+        margin-top: 0;
+    }
+    
+    .reg-form {
+        max-width: 100%;
+    }
+    
+}
+
+@media (max-width:414px) {
+    .btn-part {
+    width: 244px;
+    margin-top: 0px;
+}
+    .reg-form {
+        padding: 56px 26px 17px 26px;
+    }
+    .online-list .schedule div {
+        width: 50%;
+    }
+    .online-top {
+        padding-left: 0;    
+    }
+    .video iframe{
+        
+            width: 300px!important;
+        
+    }
+}
+
+@media (max-width:320px) {}
