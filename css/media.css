@@ -99,7 +99,9 @@
         margin-left: 0;
         margin-top: 64px;
     }
-    
+    .landblock8 .title{
+        font-size: 2rem;
+    }
     
     
     .about ul {
